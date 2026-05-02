@@ -1,0 +1,1 @@
+# Hermes Skills\n\nCommunity skills for [Hermes Agent](https://github.com/hermes-agent).\n\n## Install\n\n```bash\nnpx skills add johnwick/hermes-skills@prd-task-loop\n```\n\n## Available Skills\n\n| Skill | Description |\n|-------|-------------|\n| prd-task-loop | Autonomous PRD-driven development loop with AI coding agents |
